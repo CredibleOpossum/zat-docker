@@ -1,0 +1,6 @@
+[submodule "submodules/zatikon"]
+	path = submodules/zatikon
+	url = git@github.com:zatikon/zatikon.git
+[submodule "submodules/TheFootman"]
+	path = submodules/TheFootman
+	url = git@github.com:zatikon/TheFootman.git

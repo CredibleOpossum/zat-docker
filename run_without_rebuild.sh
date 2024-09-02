@@ -1,0 +1,1 @@
+docker run -p 6000:6000 -p 6001:6001 -v $(pwd)/resources:/app/resources -it zatikon
